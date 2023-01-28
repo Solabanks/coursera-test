@@ -1,3 +1,3 @@
-# coursera-test you know whats up
+# coursera-test
 Coursera Test Repository
  
